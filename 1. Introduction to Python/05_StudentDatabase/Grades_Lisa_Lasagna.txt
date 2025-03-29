@@ -1,0 +1,5 @@
+Name:	Lisa Lasagna
+Email:	L.Lasagna@tum.de
+Average Grade:	2.1
+
+Lisa passed the course.

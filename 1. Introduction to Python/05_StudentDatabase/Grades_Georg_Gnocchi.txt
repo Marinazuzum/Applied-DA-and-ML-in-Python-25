@@ -1,0 +1,5 @@
+Name:	Georg Gnocchi
+Email:	G.Gnocchi@tum.de
+Average Grade:	2.5
+
+Georg passed the course.
