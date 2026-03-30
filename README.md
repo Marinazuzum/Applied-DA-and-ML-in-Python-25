@@ -81,7 +81,7 @@ Comparing training progress across different episode lengths to visualize conver
 
 <div align="center">
   <!-- Video embed for Block 4 simulator -->
-  <video src="./04_rl_in_openai_gym/images/rl_training_simulation.mov" width="800" controls autoplay loop muted playsinline></video>
+  <video src="https://github.com/Marinazuzum/Applied-DA-and-ML-in-Python-25/raw/master/04_rl_in_openai_gym/images/rl_training_simulation.mov" width="800" controls autoplay loop muted playsinline></video>
   <p><em>RL Agent live training simulation.</em></p>
   <br/>
 
