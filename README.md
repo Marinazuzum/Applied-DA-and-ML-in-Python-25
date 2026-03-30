@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">🌟 Applied Data Analytics and Machine Learning in Python 🌟</h1>
+  <h2 align="center">🌟 Applied Data Analytics and Machine Learning in Python 🌟</h2>
   <p align="center">
     A comprehensive journey from Python basics to advanced Reinforcement Learning in OpenAI Gym.
   </p>
