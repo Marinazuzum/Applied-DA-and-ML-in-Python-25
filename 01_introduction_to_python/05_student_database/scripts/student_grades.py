@@ -28,7 +28,7 @@ class Student:
     
     def create_student_file(self):
         # Create a file with the student's data
-        file_name = f"1. Introduction to Python/05_StudentDatabase/Grades_{self.first_name}_{self.last_name}.txt"
+        file_name = f"01_introduction_to_python/05_student_database/data/grades_{self.first_name.lower()}_{self.last_name.lower()}.txt"
         with open(file_name, 'w') as f:
             f.write(f"Name:\t{self.first_name} {self.last_name}\n")
             #f.write(f"Grades: {', '.join(map(str, self.grades))}\n")
@@ -49,7 +49,7 @@ def evaluate_database():
     # Read the student data from the Students.txt file
     #with open("05_InputOutput/PythonWikipedia_reversed.txt", "r") as infile:
     try:
-        with open("1. Introduction to Python/05_StudentDatabase/Students.txt", "r") as file:
+        with open("01_introduction_to_python/05_student_database/data/students.txt", "r") as file:
             for line in file:
                 # Split each line into components
                 parts = line.strip().split(',')

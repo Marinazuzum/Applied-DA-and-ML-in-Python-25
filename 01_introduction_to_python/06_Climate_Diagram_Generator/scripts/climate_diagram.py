@@ -7,7 +7,7 @@ LOC_NAME = 'Augsburg' #['Augsburg', 'Straubing', 'Zugspitze']
 # Function to read data from a text file for a given location
 def read_text(location):
     # Assuming the file is named based on the location
-    file_path = f"1. Introduction to Python/06_Climate_Diagram_Generator/DataBase_{location}.txt"  # Update this to the correct file path
+    file_path = f"01_introduction_to_python/06_climate_diagram_generator/data/database_{location.lower()}.txt"  # Update this to the correct file path
     
     date = []
     T_avg = []
@@ -98,7 +98,7 @@ def plot_climate_diagram(temp_data, rain_data, location):
     
     # Save the figure
     plt.tight_layout()
-    plt.savefig(f"Climate_Diagram_{location}.png")
+    plt.savefig(f"01_introduction_to_python/06_climate_diagram_generator/images/climate_diagram_{location.lower()}.png")
     plt.show()
 
 # Main execution

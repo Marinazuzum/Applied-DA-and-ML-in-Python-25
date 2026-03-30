@@ -3,7 +3,7 @@ def python_wiki_text():
     ### Enter your code here ###
     # Open the reversed file
     try:
-        with open("1. Introduction to Python/04_InputOutput/PythonWikipedia_reversed.txt", "r") as infile:
+        with open("01_introduction_to_python/04_input_output/data/python_wikipedia_reversed.txt", "r") as infile:
             # Initialize counters
             line_count = 0
             word_count = 0
@@ -11,7 +11,7 @@ def python_wiki_text():
             char_with_spaces_count = 0
             
             # Open a new file to write the readable text
-            with open("1. Introduction to Python/04_InputOutput/PythonWikipedia.txt", "w") as outfile:
+            with open("01_introduction_to_python/04_input_output/data/python_wikipedia.txt", "w") as outfile:
                 for line in infile:
                     line_count += 1
                     words = line.split()
