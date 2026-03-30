@@ -80,19 +80,27 @@ Applying RL agents to interactive environments provided by OpenAI Gym. Tracking 
 Comparing training progress across different episode lengths to visualize convergence stability.
 
 <div align="center">
-  <!-- Video embed for Block 4 simulator -->
-  <video src="https://github.com/Marinazuzum/Applied-DA-and-ML-in-Python-25/raw/master/04_rl_in_openai_gym/images/rl_training_simulation.mov" width="800" controls autoplay loop muted playsinline></video>
+  <video src="https://raw.githubusercontent.com/Marinazuzum/Applied-DA-and-ML-in-Python-25/master/04_rl_in_openai_gym/images/rl_training_simulation.mov" width="800" controls muted playsinline>
+    <p>Your browser does not support the video tag. <a href="https://github.com/Marinazuzum/Applied-DA-and-ML-in-Python-25/blob/master/04_rl_in_openai_gym/images/rl_training_simulation.mov">Click here to view the file directly.</a></p>
+  </video>
   <p><em>RL Agent live training simulation.</em></p>
   <br/>
 
   <table>
     <tr>
-      <td align="center"><img src="./04_rl_in_openai_gym/images/training_200_episodes.png" width="400" alt="200 Episodes" /><br/><em>Training after 200 Episodes</em></td>
-      <td align="center"><img src="./04_rl_in_openai_gym/images/training_40000_episodes.png" width="400" alt="40,000 Episodes" /><br/><em>Training after 40,000 Episodes</em></td>
+      <td align="center">
+        <img src="04_rl_in_openai_gym/images/training_200_episodes.png" width="400" alt="200 Episodes" />
+        <br/><em>Training after 200 Episodes</em>
+      </td>
+      <td align="center">
+        <img src="04_rl_in_openai_gym/images/training_40000_episodes.png" width="400" alt="40,000 Episodes" />
+        <br/><em>Training after 40,000 Episodes</em>
+      </td>
     </tr>
   </table>
   <br/>
-  <img src="./04_rl_in_openai_gym/images/reward_progression_graph.jpeg" width="600" alt="Reward Graph" />
+  
+  <img src="04_rl_in_openai_gym/images/reward_progression_graph.jpeg" width="600" alt="Reward Graph" />
   <p><em>Extended reward analysis progression graph.</em></p>
 </div>
 
