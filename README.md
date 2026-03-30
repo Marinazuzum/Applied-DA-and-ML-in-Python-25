@@ -42,11 +42,9 @@ Visual analysis of dataset clusters and model performance directly affects train
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="./02_machine_learning_in_python/images/exploratory_data_visualization.png" width="400" alt="Exploratory Data Visualization" /><br/><em>Figure 1: Exploratory Data Visualization</em></td>
-      <td align="center"><img src="./02_machine_learning_in_python/images/data_clustering.png" width="400" alt="Data Clustering" /><br/><em>Figure 2: Data Clustering</em></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2"><img src="./02_machine_learning_in_python/images/training_vs_validation_accuracy.png" width="600" alt="Training vs Validation Accuracy" /><br/><em>Tracking Model Accuracy & Generalization</em></td>
+      <td align="center" width="33%"><img src="./02_machine_learning_in_python/images/exploratory_data_visualization.png" width="250" alt="Exploratory Data Visualization" /><br/><em>Exploratory Data Visualization</em></td>
+      <td align="center" width="33%"><img src="./02_machine_learning_in_python/images/data_clustering.png" width="250" alt="Data Clustering" /><br/><em>Data Clustering</em></td>
+      <td align="center" width="33%"><img src="./02_machine_learning_in_python/images/training_vs_validation_accuracy.png" width="350" alt="Training vs Validation Accuracy" /><br/><em>Model Accuracy & Generalization</em></td>
     </tr>
   </table>
 </div>
@@ -62,13 +60,11 @@ Visualizations covering greedy behavior, exploration rates, and Q-Value progress
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="./03_introduction_to_rl/images/crane_exploration_epsilon_0_05.png" width="400" alt="Exploration" /><br/><em>High Exploration (ε = 0.05, less greedy)</em></td>
-      <td align="center"><img src="./03_introduction_to_rl/images/crane_exploitation_epsilon_0_95.png" width="400" alt="Exploitation" /><br/><em>High Exploitation (ε = 0.95, more greedy)</em></td>
+      <td align="center" width="33%"><img src="./03_introduction_to_rl/images/crane_exploration_epsilon_0_05.png" width="250" alt="Exploration" /><br/><em>High Exploration (ε=0.05)</em></td>
+      <td align="center" width="33%"><img src="./03_introduction_to_rl/images/crane_exploitation_epsilon_0_95.png" width="250" alt="Exploitation" /><br/><em>High Exploitation (ε=0.95)</em></td>
+      <td align="center" width="33%"><img src="./03_introduction_to_rl/images/q_learning_results.png" width="350" alt="Q-Learning results" /><br/><em>Performance analysis</em></td>
     </tr>
   </table>
-  <br/>
-  <img src="./03_introduction_to_rl/images/q_learning_results.png" width="800" alt="Q-Learning results" />
-  <p><em>Performance analysis on reinforcement tasks.</em></p>
 </div>
 
 ---
