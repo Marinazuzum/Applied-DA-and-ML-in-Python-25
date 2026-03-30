@@ -80,7 +80,7 @@ Applying RL agents to interactive environments provided by OpenAI Gym. Tracking 
 Comparing training progress across different episode lengths to visualize convergence stability.
 
 <div align="center">
-  <img src="./04_rl_in_openai_gym/images/rl_training_simulation.gif" width="600" alt="RL Training Simulation AutoPlay GIF" />
+  <img src="./04_rl_in_openai_gym/images/rl-training-simulation.gif" width="600" alt="RL Training Simulation AutoPlay GIF" />
   <p><em>RL Agent live training simulation.</em></p>
   <br/>
 
