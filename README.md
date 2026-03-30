@@ -98,8 +98,4 @@ Comparing training progress across different episode lengths to visualize conver
   <p><em>Extended reward analysis progression graph.</em></p>
 </div>
 
----
 
-<div align="center">
-  <p>Made with ❤️ during the Applied Data Analytics and Machine Learning Course.</p>
-</div>
