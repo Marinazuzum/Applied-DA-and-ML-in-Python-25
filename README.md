@@ -80,7 +80,7 @@ Applying RL agents to interactive environments provided by OpenAI Gym. Tracking 
 Comparing training progress across different episode lengths to visualize convergence stability.
 
 <div align="center">
-  <video src="https://raw.githubusercontent.com/Marinazuzum/Applied-DA-and-ML-in-Python-25/master/04_rl_in_openai_gym/images/rl_training_simulation.mov" width="800" controls muted playsinline>
+  <video src="https://github.com/user-attachments/assets/c66e82ed-2d24-44ce-9d8d-17b315af23b0" width="800" controls muted playsinline>
     <p>Your browser does not support the video tag. <a href="https://github.com/Marinazuzum/Applied-DA-and-ML-in-Python-25/blob/master/04_rl_in_openai_gym/images/rl_training_simulation.mov">Click here to view the file directly.</a></p>
   </video>
   <p><em>RL Agent live training simulation.</em></p>
